@@ -39,3 +39,10 @@ Atribut: `isbn` (unik), `judul`, `penulis`, `penerbit`, `tahun_terbit`.
 
 ## Histori Git
 Gunakan `git log --oneline --graph --decorate` untuk melihat tahapan pengembangan.
+
+## Histori Git
+Hasil `git log --oneline`:
+
+```
+(paste di sini)
+```
